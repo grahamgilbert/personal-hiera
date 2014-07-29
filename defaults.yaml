@@ -1,0 +1,2 @@
+managedmac::security::ask_for_password: true
+managedmac::security::ask_for_password_delay: 300
